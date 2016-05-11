@@ -29,7 +29,9 @@
 >>>>>满二叉树
 
 #插入图片
-![排队网](http://www.paidui.com/Content/Images/PDW/2016/3/15/17/12d6079c-d8a1-4ca3-a74c-8d05b4603eb0.jpg?1.0 "排队网移动POS")
+[![排队网]](http://www.paidui.com)[排队网]:http://www.paidui.com/Content/Images/PDW/2016/3/15/17/12d6079c-d8a1-4ca3-a74c-8d05b4603eb0.jpg?1.0 "排队网移动POS"
+
+
 
 [文字加超链接](http://www.baidu.com "百度")
 
